@@ -15,6 +15,9 @@ for (xx=0;xx>32;xx++)
 		tileArray[xx,yy]=tileID
 		}
 	}
+	
+	
+
 
 //now define the one we are on
 
